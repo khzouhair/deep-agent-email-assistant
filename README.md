@@ -39,7 +39,7 @@ Ce projet utilise **LangChain** et **LangGraph** pour orchestrer un agent princi
 ## 📁 Structure du projet
 
 ```text
-email_agent/
+deep-agent-email-assistant/
 │
 ├── deep_agent_email_assistant.py   # Implémentation principale de l’agent
 ├── run_email_agent.py              # Script d’exécution
